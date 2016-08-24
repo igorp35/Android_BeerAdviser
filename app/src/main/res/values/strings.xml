@@ -4,5 +4,12 @@
     <string name="button_find_beer">Find Beer!</string>
     <string name="textView_brand" />
 
+<array name="beer_colors">
+    <item>light</item>
+    <item>amber</item>
+    <item>brown</item>
+    <item>dark</item>
+</array>
+
 
 </resources>
